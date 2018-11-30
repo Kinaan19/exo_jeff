@@ -1,0 +1,19 @@
+Bonjour,
+
+Par rapport à l'exercice:
+
+Vous devez faire une todo list simple, mais si vous êtes inspiré pour le design, vous avez toute la liberté.
+L'idéale c'est, utiliser vue-cli et vue-router. Expérimenter au moins avec une route.
+Il faut respecter:
+Le State pourrais être un tableau, id ...
+Les Mutations en majuscule, ADD, TOGGLE, DELETE
+Les Actions idem ""
+Il faut travailler avec des composants vue pour mettre dans le template html. Exemple: computed du composant →this.$store.getters.getTodos, methods → toggleTodo(id){this.$store.dispatch('ToggleTodo', id)}.
+C'est que des exemples mais vous pouvez faire mieux et très different.
+Pour Lundi.
+Posez des questions si besoin. 
+:) bon travail.
+-- 
+Bien à vous,
+
+Orosco Jefferson
